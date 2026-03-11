@@ -7,7 +7,7 @@ listener_01:
   redirect_legacy_clients_to: 'null'
   server_icon: server-icon.png
   server_motd:
-  - '&l &6Wenatchee High School Offical Server &5&l[1.8 ONLY]&r&l  &4            🗡 &c&lEASTMONT SUCKS ASS&4 🗡'
+  - '&l &6Wenatchee High School Offical Server &5&l[1.8 ONLY]&r&l  &4            🗡 &c&lEASTMONT SUCKS ASS!&4 🗡'
   allow_motd: true
   allow_query: true
   request_motd_cache:
