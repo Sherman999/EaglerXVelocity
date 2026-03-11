@@ -1,7 +1,7 @@
 listener_01:
   address: 0.0.0.0:8081
   address_v6: 'null'
-  max_players: 60
+  max_players: 30
   forward_ip: false
   forward_ip_header: X-Real-IP
   redirect_legacy_clients_to: 'null'
